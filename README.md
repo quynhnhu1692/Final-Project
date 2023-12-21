@@ -1,7 +1,7 @@
 # Nhập môn Học máy
 Bảng phân công công việc:
 
-https://docs.google.com/spreadsheets/d/1sP36em- pYKGAaeYSW2pBDH28KmmA3c9NoqonIdMmnFA/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1sP36em-pYKGAaeYSW2pBDH28KmmA3c9NoqonIdMmnFA/edit?usp=sharing
 
 Tải dữ liệu đã có sẵn trên Kaggle:
 
