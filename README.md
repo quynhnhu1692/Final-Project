@@ -5,11 +5,11 @@ https://docs.google.com/spreadsheets/d/1sP36em-pYKGAaeYSW2pBDH28KmmA3c9NoqonIdMm
 
 Tải dữ liệu đã có sẵn trên Kaggle:
 
-https://www.kaggle.com/datasets/alopez247/pokemon/
+https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand/data
 
 Làm bài trên Google Colab:
 
-https://colab.research.google.com/drive/1srakNfDMSPI5cDnjHQsjFjFYFcbgRxf7?usp=sharing
+https://colab.research.google.com/drive/1h0VVV2Vkb4y277jkrbYZGTbYyRAHqR-r?usp=sharing
 
 Link Github:
 
